@@ -1,0 +1,22 @@
+{
+  "name": "ethertypes",
+  "version": "1.0.0",
+  "description": "List of public ethertypes as an Object -> Octet Mapping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oboecat/ethertypes.git"
+  },
+  "author": "Liliya Pustovoyt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oboecat/ethertypes/issues"
+  },
+  "homepage": "https://github.com/oboecat/ethertypes#readme",
+  "dependencies": {
+    "npm": "^5.5.1"
+  }
+}
