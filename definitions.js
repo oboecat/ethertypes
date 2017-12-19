@@ -1,6 +1,6 @@
 var define = require('./index').define;
 
-define('IPV4', 0x8000);
+define('IPV4', 0x0800);
 define('IPV6', 0x86DD);
 define('ARP', 0x0806);
 define('AARP', 0x80F3);
