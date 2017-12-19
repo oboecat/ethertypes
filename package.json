@@ -1,6 +1,6 @@
 {
   "name": "ethertypes",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "List of public ethertypes as an Object -> Octet Mapping",
   "main": "index.js",
   "scripts": {
